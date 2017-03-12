@@ -1,3 +1,3 @@
-## Detecting people flow with distrubuted loudness sensors
+## Detecting people flow with distributed loudness sensors
 
 test
